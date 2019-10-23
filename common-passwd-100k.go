@@ -1,6 +1,7 @@
 package gocheckpasswd
 
-// common 10000 passwords from https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
+// common 100,000 passwords from
+// https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
 const strCommonPass100k = `123456
 password
 12345678
