@@ -15,7 +15,7 @@ import (
     "fmt"
     "time"
 
-    "github.com/ninja-software/go-check-passwd"
+    "github.com/safe2say/go-check-passwd"
 )
 
 func main() {
