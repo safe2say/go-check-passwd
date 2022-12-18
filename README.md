@@ -4,7 +4,7 @@ A tool to see if password is commonly used or not
 
 ## Install
 
-go get github.com/ninja-software/go-check-passwd
+go get github.com/safe2say/go-check-passwd
 
 ## Example
 
