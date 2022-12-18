@@ -1,1 +1,1 @@
-module github.com/ninja-software/go-check-passwd
+module github.com/safe2say/go-check-passwd
